@@ -29,6 +29,7 @@ public class SignalTelecom {
     //6-User sees the price of the product
     //7-User sees the features of the product
     //8-User buys the product as much as he/she wants
+    //
 
 @Test
     public void shop(){
