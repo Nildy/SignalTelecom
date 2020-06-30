@@ -101,7 +101,7 @@ public class SignalTelecom {
         // hi everyone 
         //Hello dear friends!!!
         // Hi from Muhammet!
-        // Hi again from Muhammet
+        //Hi from local 
 
     }}
 
