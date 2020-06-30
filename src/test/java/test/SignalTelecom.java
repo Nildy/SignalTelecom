@@ -98,9 +98,10 @@ public class SignalTelecom {
         //Veirfy to see "YOUR ORDER"
         Assert.assertTrue(shopPage.orderincart.getText().contains("CART / $4,999.00"));
 
-        // hi everyone
-
-    // Hi this is melik
+        // hi everyone 
+        //Hello dear friends!!!
+        // Hi from Muhammet!
+        // Hi again from Muhammet
 
     }}
 
