@@ -3,7 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="295f9f0b-00d2-47dc-9d4b-a91426300272" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/src/test/java/test/SignalTelecom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/SignalTelecom.java" afterDir="false" />
+=======
+>>>>>>> a17be0463f7885109fe6129a9aac485dca0514d9
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +22,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1ddypWptnMmG2ZiuE3kaU3ugK0e" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -89,5 +93,10 @@
     </state>
     <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1593111228013" />
     <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1593103805970" />
+    <state x="470" y="388" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593561327826">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state x="470" y="388" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.813/-1360.23.1360.745@0.23.1440.813" timestamp="1593561327826" />
+    <state x="470" y="389" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.815/-1360.23.1360.745@0.23.1440.815" timestamp="1593559916787" />
   </component>
 </project>
