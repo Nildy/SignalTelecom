@@ -102,7 +102,7 @@ public class SignalTelecom {
         //Hello dear friends!!!
 
 
-    //Sonunda basardim sanirim
+
 
 
         // Hi from Muhammet!
@@ -112,8 +112,11 @@ public class SignalTelecom {
 
 
         // Hi it's Betul
+
     //Alcicek Melik
-    // Hi from Mr. Ayhan
+//Arzu Sonunda basardim sanirim
+        
+
     }}
 
 
