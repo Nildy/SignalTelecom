@@ -102,7 +102,7 @@ public class SignalTelecom {
         //Hello dear friends!!!
 
 
-    System.out.println("Sonunda Arzu gonderdi");
+    //Sonunda basardim sanirim
 
 
         // Hi from Muhammet!
