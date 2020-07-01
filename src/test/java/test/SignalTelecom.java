@@ -100,6 +100,8 @@ public class SignalTelecom {
         Assert.assertTrue(shopPage.orderincart.getText().contains("CART / $4,999.00"));
 
 
+
+        //I would like to welcome everyon
         // hi everyone
 
     // Hi this is melik
@@ -107,8 +109,10 @@ public class SignalTelecom {
 
 
 
+
         // hi everyone 
         //Hello dear friends!!!
+
 
 
 
@@ -125,6 +129,14 @@ public class SignalTelecom {
     //Alcicek Melik
     // Hi from Mr. Ayhan
 //Arzu Sonunda basardim sanirim
+
+        //Mrs. Nilgun from remote branch
+
+        //Here is new updates
+        //Hi friends!!!
+        // Just a second one
+
+
     }}
 
 
