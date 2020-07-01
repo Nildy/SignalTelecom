@@ -116,25 +116,12 @@ public class SignalTelecom {
 
         // Hi from Muhammet!
         // Hi again from Muhammet
-<<<<<<< HEAD
         // Hi it's Betul
     //Alcicek Melik
-=======
-
-
         // Hi it's Betul
-
     //Alcicek Melik
-
->>>>>>> a13f257c6802bc26821133aae9d82a67e149b078
-        
-
-
         //We learn git insallah
-
-
         // Hi it's Betul
-
     //Alcicek Melik
     // Hi from Mr. Ayhan
 //Arzu Sonunda basardim sanirim
