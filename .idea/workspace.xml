@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ChangeListManager">
-<<<<<<< HEAD
-    <list default="true" id="295f9f0b-00d2-47dc-9d4b-a91426300272" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+  <component name="ChangeListManager"
+    <list default="true" id="295f9f0b-00d2-47dc-9d4b-a91426300272" name="Default Changelist" comment=""
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" /
+
 =======
     <list default="true" id="b4a862f3-abfe-40be-b65c-be1f6e69cb54" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+
       <change beforePath="$PROJECT_DIR$/src/test/java/test/SignalTelecom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/SignalTelecom.java" afterDir="false" />
->>>>>>> 095f32d54e3ec9da91af2fcf79e642310f607f23
+
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

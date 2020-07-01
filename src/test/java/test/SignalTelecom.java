@@ -29,6 +29,7 @@ public class SignalTelecom {
     //6-User sees the price of the product
     //7-User sees the features of the product
     //8-User buys the product as much as he/she wants
+    //
 
 @Test
     public void shop(){
@@ -99,7 +100,16 @@ public class SignalTelecom {
         Assert.assertTrue(shopPage.orderincart.getText().contains("CART / $4,999.00"));
 
 
-        //I would like to welcome everyone
+
+        //I would like to welcome everyon
+        // hi everyone
+
+    // Hi this is melik
+    //i am still waiting
+
+
+
+
         // hi everyone 
         //Hello dear friends!!!
 
@@ -110,14 +120,16 @@ public class SignalTelecom {
 
         // Hi from Muhammet!
         // Hi again from Muhammet
-
-        //We learn git insallah
-
-
         // Hi it's Betul
-
     //Alcicek Melik
+        // Hi it's Betul
+    //Alcicek Melik
+        //We learn git insallah
+        // Hi it's Betul
+    //Alcicek Melik
+    // Hi from Mr. Ayhan
 //Arzu Sonunda basardim sanirim
+
         //Mrs. Nilgun from remote branch
 
         //Here is new updates
