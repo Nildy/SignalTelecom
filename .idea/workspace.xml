@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="295f9f0b-00d2-47dc-9d4b-a91426300272" name="Default Changelist" comment="">
+=======
+    <list default="true" id="b4a862f3-abfe-40be-b65c-be1f6e69cb54" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> 64006ef6854f8924e321e76aca01435ffe9a004f
       <change beforePath="$PROJECT_DIR$/src/test/java/test/SignalTelecom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/SignalTelecom.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -92,22 +97,25 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="168" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1592955930848" />
-    <state x="232" y="128" key="MergeDialog" timestamp="1593561337604">
-      <screen x="0" y="23" width="1440" height="813" />
+    <state x="247" y="106" key="MergeDialog" timestamp="1593562506439">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="247" y="106" key="MergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1593562506439" />
     <state x="232" y="128" key="MergeDialog/0.23.1440.813/-1360.23.1360.745@0.23.1440.813" timestamp="1593561337604" />
-    <state x="521" y="188" key="MultipleFileMergeDialog" timestamp="1593561337647">
-      <screen x="0" y="23" width="1440" height="813" />
+    <state x="556" y="167" key="MultipleFileMergeDialog" timestamp="1593562506452">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="556" y="167" key="MultipleFileMergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1593562506452" />
     <state x="521" y="188" key="MultipleFileMergeDialog/0.23.1440.813/-1360.23.1360.745@0.23.1440.813" timestamp="1593561337647" />
     <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1593111228013">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1593111228013" />
     <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1593103805970" />
-    <state x="470" y="388" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593561919678">
-      <screen x="0" y="23" width="1440" height="813" />
+    <state x="501" y="370" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593562488285">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="501" y="370" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1593562488285" />
     <state x="470" y="388" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.813/-1360.23.1360.745@0.23.1440.813" timestamp="1593561919678" />
     <state x="470" y="389" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.815/-1360.23.1360.745@0.23.1440.815" timestamp="1593559916787" />
   </component>
