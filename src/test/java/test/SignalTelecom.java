@@ -103,7 +103,8 @@ public class SignalTelecom {
         // hi everyone
 
     // Hi this is melik
-    //sorry
+    //i am still waiting
+
 
 
         // hi everyone 
@@ -111,11 +112,20 @@ public class SignalTelecom {
         // Hi from Muhammet!
         // Hi again from Muhammet
 
+
         // Hi it's Betul
 
     //Alcicek Melik
 
         
+
+
+        //We learn git insallah
+
+
+        // Hi it's Betul
+    //Alcicek Melik
+    // Hi from Mr. Ayhan
 
     }}
 
