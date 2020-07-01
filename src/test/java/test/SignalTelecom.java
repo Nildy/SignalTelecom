@@ -110,7 +110,7 @@ public class SignalTelecom {
         //Hi from local
        //serpilll
         // Hi again from Muhammet
-        
+        //We learn git insallah
 
     }}
 
