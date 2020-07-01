@@ -131,13 +131,8 @@ public class SignalTelecom {
         // Hi it's Betul
 
     //Alcicek Melik
-<<<<<<< HEAD
     // Hi from Mr. Ayhan
-=======
 //Arzu Sonunda basardim sanirim
-        
->>>>>>> 64006ef6854f8924e321e76aca01435ffe9a004f
-
     }}
 
 
