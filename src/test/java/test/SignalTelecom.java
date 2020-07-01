@@ -100,15 +100,15 @@ public class SignalTelecom {
 
         // hi everyone 
         //Hello dear friends!!!
-<<<<<<< HEAD
 
-    System.out.println("Sonunda");
 
-=======
+    System.out.println("Sonunda Arzu gonderdi");
+
+
         // Hi from Muhammet!
         // Hi again from Muhammet
         
->>>>>>> 758ff9b76225eced1113e45d4707b0cec141904b
+
     }}
 
 
