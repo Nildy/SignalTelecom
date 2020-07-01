@@ -134,7 +134,7 @@ public class SignalTelecom {
 
     // Hi from Mr. Ayhan
 
-    // Hi from my local branch Muhammet
+    // Hi from my local branch Muhammet!
 
 //Arzu Sonunda basardim sanirim
 
