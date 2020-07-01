@@ -119,7 +119,7 @@ public class SignalTelecom {
     //Alcicek Melik
 //Arzu Sonunda basardim sanirim
         //Mrs. Nilgun from remote branch
-        
+        //Here is new updates
 
     }}
 
